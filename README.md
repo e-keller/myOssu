@@ -23,3 +23,8 @@ Today I am revising Python variables and datatypes,
 how to use the Python interactive shell and the terminal, 
 simple data types: integers, floats, and strings.
 lists, ranges abd dictionary types
+
+20.08.2022
+After a few days of covid, finally I am back. 
+I am creating a dual-boot laptop. After a short deliberation, I decided to go for ubuntu es the most popular and most available distro.
+I'm following this guide https://www.itechguides.com/dual-boot-ubuntu-windows-10/ Fingers crossed, everything goes well. I'm in for a steep learning curve if something goes bad and I have to fix system problems. 
