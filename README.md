@@ -32,4 +32,5 @@ I'm following this guide https://www.itechguides.com/dual-boot-ubuntu-windows-10
 21.08.2022
 First try of creating a dual-boot lap top failed. 
 USability tips for visual studio and the python interactive shell,
+difference between methods and fucntions
 
