@@ -28,3 +28,8 @@ lists, ranges abd dictionary types
 After a few days of covid, finally I am back. 
 I am creating a dual-boot laptop. After a short deliberation, I decided to go for ubuntu es the most popular and most available distro.
 I'm following this guide https://www.itechguides.com/dual-boot-ubuntu-windows-10/ Fingers crossed, everything goes well. I'm in for a steep learning curve if something goes bad and I have to fix system problems. 
+
+21.08.2022
+First try of creating a dual-boot lap top failed. 
+USability tips for visual studio and the python interactive shell,
+
