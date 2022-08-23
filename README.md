@@ -34,3 +34,6 @@ First try of creating a dual-boot lap top failed.
 USability tips for visual studio and the python interactive shell,
 difference between methods and fucntions
 
+22-23.08.2022
+Coding exercise, operations with basic datatypes, accessing items in a list and more exercises.
+Getting familiar with Github more.
