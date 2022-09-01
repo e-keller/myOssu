@@ -37,3 +37,7 @@ difference between methods and fucntions
 22-23.08.2022
 Coding exercise, operations with basic datatypes, accessing items in a list and more exercises.
 Getting familiar with Github more.
+
+01.09.2022
+Python exercises, still with basic datatypes.
+Functions basics, how to create one.
