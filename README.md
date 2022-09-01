@@ -41,3 +41,4 @@ Getting familiar with Github more.
 01.09.2022
 Python exercises, still with basic datatypes.
 Functions basics, how to create one.
+I am participating in a UTEST.com practice test cycle too. 
